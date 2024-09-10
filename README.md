@@ -2,7 +2,7 @@
 
 **Overview**
 
-This repository contains MATLAB codes developed to simulate the reconstruction of molecular signals in diffusion-based molecular communication (MC) systems. Additionally, the simulation codes for the optimal receiver nanomachine design are provided. These codes are based on the model proposed in the following paper:
+This repository contains MATLAB codes developed in 2018 to simulate the reconstruction of molecular signals in diffusion-based molecular communication (MC) systems. Additionally, the simulation codes for the optimal receiver nanomachine design are provided. These codes are based on the model proposed in the following paper:
 
 **Citation:**
 
