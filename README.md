@@ -6,7 +6,7 @@ This repository contains MATLAB codes developed to simulate the reconstruction o
 
 **Citation:**
 
-Atakan, B., & Gulec, F. (2019). "Signal reconstruction in diffusion-based molecular communication." *Transactions on Emerging Telecommunications Technologies*, 30(12), e3699. doi: [10.1002/ett.3699](https://doi.org/10.1002/ett.3699)
+Atakan, B., & Gulec, F. (2019). "Signal reconstruction in diffusion-based molecular communication." *Transactions on Emerging Telecommunications Technologies*, 30(12), e3699. doi: [10.1002/ett.3699](https://doi.org/10.1002/ett.3699), Open Access Link: https://arxiv.org/pdf/1901.11240
 
 **Background**
 
