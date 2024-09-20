@@ -1,14 +1,10 @@
 # Signal Reconstruction in Diffusion-Based Molecular Communication
 
-**Overview**
+## **Overview**
 
-This repository contains MATLAB codes developed in 2018 to simulate the reconstruction of molecular signals in diffusion-based molecular communication (MC) systems. Additionally, the simulation codes for the optimal receiver nanomachine design are provided. These codes are based on the model proposed in the following paper:
+This repository contains MATLAB codes developed in 2018 to simulate the reconstruction of molecular signals in diffusion-based molecular communication (MC) systems. Additionally, the simulation codes for the optimal receiver nanomachine design are provided. These codes are based on the model proposed in the following paper: Atakan, B., & Gulec, F. (2019). "Signal reconstruction in diffusion-based molecular communication." *Transactions on Emerging Telecommunications Technologies*, 30(12), e3699. doi: [10.1002/ett.3699](https://doi.org/10.1002/ett.3699), Open Access Link: https://arxiv.org/pdf/1901.11240
 
-**Citation:**
-
-Atakan, B., & Gulec, F. (2019). "Signal reconstruction in diffusion-based molecular communication." *Transactions on Emerging Telecommunications Technologies*, 30(12), e3699. doi: [10.1002/ett.3699](https://doi.org/10.1002/ett.3699), Open Access Link: https://arxiv.org/pdf/1901.11240
-
-**Background**
+## **Background**
 
 Molecular communication is a prominent nanoscale communication paradigm where nanomachines (NMs) form nanonetworks by transmitting information using molecules. In this model:
 
@@ -19,7 +15,7 @@ Molecular communication is a prominent nanoscale communication paradigm where na
 
 The MATLAB codes simulate the random walk and reconstruction process, validating the derived distortion function and optimizing RN design parameters to minimize signal distortion.
 
-**Code Overview**
+## **Code Overview**
 
 The code file names correspond to the figure names in the paper for easier reference.
 
@@ -27,15 +23,15 @@ The code file names correspond to the figure names in the paper for easier refer
 - **Signal Reconstruction:** Reconstructs the signal based on molecule concentrations sensed by the RN and calculates signal distortion.
 - **Receiver Design:** Uses derived formulas to find the optimal RN design parameters that minimize signal distortion.
 
-**Results**
+## **Results**
 
 The simulation results demonstrate that:
 
 - The original signal can be satisfactorily reconstructed with low distortion.
 - There is a trade-off among RN design parameters, allowing for joint optimization to achieve the desired level of signal distortion.
 
-**How to Cite**
+## **Citation Requirement**
 
-If you use or build upon these codes in your research, please ensure that you cite the paper:
+If you use or build upon this code in your research, or if this code is used for any academic work, publication, or research, proper attribution and citation of the paper is **required**. Please cite the paper in any related publications, presentations, or derived works.
 
 Atakan, B., & Gulec, F. (2019). "Signal reconstruction in diffusion-based molecular communication." *Transactions on Emerging Telecommunications Technologies*, 30(12), e3699. doi: [10.1002/ett.3699](https://doi.org/10.1002/ett.3699)
